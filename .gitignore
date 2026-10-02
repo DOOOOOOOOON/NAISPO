@@ -1,0 +1,11 @@
+KinectSilhouette/Library/
+KinectSilhouette/Temp/
+KinectSilhouette/Logs/
+KinectSilhouette/obj/
+KinectSilhouette/UserSettings/
+KinectSilhouette/Build/
+KinectSilhouette/Assets/Plugins/
+KinectSilhouette/Assets/StreamingAssets/
+KinectSilhouette/Dependencies/
+KinectSilhouette/unsafe.zip
+*.log
